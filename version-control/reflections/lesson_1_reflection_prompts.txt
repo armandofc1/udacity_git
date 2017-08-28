@@ -1,0 +1,10 @@
+Reflexão 1
+Como a visualização de um diff entre duas versões de um arquivo ajuda você a ver o bug que foi introduzido?
+Eu posso ver como o arquivo estava quando a apliação estava funcionando. E onde exatamente o erro está.
+
+Reflexão 2
+Como ter fácil acesso a todo o histórico de um arquivo pode torná-lo um programador mais eficiente no longo prazo?
+É possível encontrar onde um possível erro inicio.
+É possível ver a evolução da aplicação.
+
+Reflexão 3
